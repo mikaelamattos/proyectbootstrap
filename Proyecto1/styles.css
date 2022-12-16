@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+
+body{
+    background-color: #F8F9FA;
+}
+
+.fs-2{
+margin: 8rem;
+}
+.fw-light{
+ font-size: 2rem;
+  margin: 10rem;
+
+}
+
+
+.img-fluid {
+  margin-bottom: 1rem;
+}
+
+
+.fs-3{
+  color: #b6a684;
+  margin-left: 57rem;
+  margin-top: 63rem;
+  margin-bottom: 5rem;
+}
